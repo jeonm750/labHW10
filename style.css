@@ -1,0 +1,52 @@
+body {
+	background-image: url("background2.jpg");
+	background-size:  100%;
+	color: white;
+	font-family: 'Gurajada', serif;
+}
+
+.genreTag {
+  padding: 1px 20px;
+  border: 2px solid black;
+  margin: 4px;
+  border-radius: 8px;
+background-color: #DEE5F4;
+  color: black;
+  font-size: 20px;
+}
+
+.songContainer{
+  padding:13px 24px;
+  border: 2px solid white;
+  margin:8px;
+  border-radius: 8px;
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+	margin: 1px;
+
+}
+
+h2 {
+	font-size: 45px;
+	line-height: 10px;
+}
+
+p {
+	font-size: 25px;
+	line-height: 5px;
+}
+button {
+	font-size: 30px;
+	padding: 1px 30px;
+	background-color: #DEE5F4;
+	border-radius: 8px;
+	border: 2px solid black;
+	margin: 5px;
+	font-family: 'Gurajada', serif;
+}
+button:hover {
+  background-color: #2a4b2f;
+  color: white;
